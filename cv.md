@@ -2,16 +2,16 @@
 *************
 # Ivan Savenko
 *************
-### *Contact infromation:*
+### **Contact infromation:**
 
 *Discord*: IvanSavDev
 *E-mail*: ivan.savenko.97@bk.ru
 *************
-### *About myself:*
+### **About myself:**
 
 Hello, my name is Ivan Savenko. I want to learn Frontend.
 *************
-### *Skills:*
+### **Skills:**
 
 * HTML5, CSS
 * JavaScript basic
@@ -19,7 +19,7 @@ Hello, my name is Ivan Savenko. I want to learn Frontend.
 * Java basic
 * Command line
 *************
-### *Code example:*
+### **Code example:**
 
 Search a factorial of three
 ```
@@ -35,14 +35,14 @@ const factorial = (n) => {
 const answer = factorial(3);
 ```
 *************
-### Courses:
+### **Courses:**
 
 * Hexlet
 * Stepik
 * Udemy
 * CS50
 *************
-### Languages:
+### **Languages:**
 
 * Russian - Native
 * English - Pre-Intermediate
