@@ -4,8 +4,9 @@
 *************
 ### **Contact infromation:**
 
-*Discord*: IvanSavDev
-*E-mail*: ivan.savenko.97@bk.ru
+* **Discord**: IvanSavDev
+* **E-mail**: ivan.savenko.97@bk.ru
+
 *************
 ### **About myself:**
 
@@ -18,10 +19,11 @@ Hello, my name is Ivan Savenko. I want to learn Frontend.
 * Git, GitHub
 * Java basic
 * Command line
+
 *************
 ### **Code example:**
 
-Search a factorial of three
+Search a factorial of three:
 ```
 const factorial = (n) => {
   if (n === 0) {
@@ -41,6 +43,7 @@ const answer = factorial(3);
 * Stepik
 * Udemy
 * CS50
+
 *************
 ### **Languages:**
 
