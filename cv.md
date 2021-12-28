@@ -1,7 +1,7 @@
 # rsschool-cv
-*************
+
 # Ivan Savenko
-*************
+
 ### **Contact infromation:**
 
 * **Discord**: IvanSavDev
@@ -11,6 +11,7 @@
 ### **About myself:**
 
 Hello, my name is Ivan Savenko. I want to learn Frontend.
+
 *************
 ### **Skills:**
 
